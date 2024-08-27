@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans");
+
+body {
+  margin-top: 20px;
+  padding-top: 55px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+h2 {
+  font-family: "Josefin Sans", cursive;
+}

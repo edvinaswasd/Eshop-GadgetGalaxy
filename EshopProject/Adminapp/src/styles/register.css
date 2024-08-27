@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    /* margin-top: 20px; */
+    
+  }
+
+  .button{
+      /* justify-content: center; */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      /* background-color:#C7335A; */
+      border-radius: 30px;
+      /* position: absolute; */
+        /* width: 158px;
+        height: 53px;
+        left: 881px;
+        top: 942px; */
+      /* height: 200px; */
+      /* border: 3px solid green;  */
+  }
